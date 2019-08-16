@@ -1,13 +1,17 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: iOS 개발과정 수료
+  uni: 패스트캠퍼스
+  year: 2019.03 &mdash; 2019.08
+  # awards:
+  #  - award: Summa Cumme Laude graduate
+  # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: 건국대학교 수학교육과 졸업 (서울)
+  uni: KONKUK UNIVERSITY
+  year: 2011.03 &mdash; 2017.08
+  #award: Most likely to succeed
+  #summary: You can choose to have either a single or multiple awards
+
+- degree: 대진고등학교 자연계열 졸업 (서울)
+  uni:  DAEJIN HIGH SCHOOL
+  year: 2006.03 &mdash; 2009.02
