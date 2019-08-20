@@ -2,7 +2,7 @@
 
 **Eun Seok Jeon resume**
 
-[click](https://brianeunseokjeon.github.io/resume/)
+[click](https://brianeunseokjeon.github.io/Resume/)
 
 
 
