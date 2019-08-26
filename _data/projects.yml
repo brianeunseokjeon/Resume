@@ -4,7 +4,7 @@
 # jazznotes.io
 - project: 야놀자 클론 앱 프로젝트 iOS 어플리케이션 서비스
   role: iOS 개발자
-  duration: 2019.07.01 &mdash; 2019.08.10
+  duration: 2019.07.01 &mdash; 2019.08.23
   url: "https://github.com/final-project-yanolja/iOS_Team"
   description: <li> 검색 및 지도를 이용하여 숙박시설 검색 및 예약 서비스 구현 (iOS개발자 3명, back-end 3명 front-end 4명) 총 10명이 협업하여 개발 </li> <li>맡은 파트- 검색 기능, 캘린더, 피커, 로그인 관련 네트워크, 예약관련 네트워크, 전체팀장(최종발표) </li> <li>캘린더(FSCalendar) - 라이브러리이용 하여 최대한 야놀자의 Calendar와 비슷하게 Custom하여 사용/ 알고리즘을 이용하여 첫날과 마지막날 클릭시 그 사이 날도 모두 선택, 첫날로부터 9일까지만 선택 가능, 처음선택한 날보다 두번째 선택한 날이 더 작으면 두번째 선택한 날이 첫번째 선택한 날이 되게끔 구현</li> <li>피커 - 아동의 숫자 증가시 아동나이를 선택하게하는 컬랙션 뷰셀을 증가시키고, 컬랙션뷰 셀을 클릭시 AlertController에 AddSubView한 PickerView를 나타나게하여 아동의 나이 선택</li> <li> 로그인 - 회원가입 및 로그인 관련 네트워크 담당 </li> <li> 예약기능 - 필요한 Request와 로그인시 받은 Token을 Header에 적용하여 선택 숙소를 서버에 저장 </li> <li> 전체 팀장을 맡아, 백앤드와 프론트간의 의사소통의 중간자 역할을 했으며, 최종발표까지 담당 </li>
 
