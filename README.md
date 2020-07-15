@@ -2,7 +2,7 @@
 
 **Eun Seok Jeon resume**
 
-[click](https://brianeunseokjeon.github.io/Resume/)
+[여기를 눌러주시면 전은석의 이력서로 이동됩니다.](https://brianeunseokjeon.github.io/Resume/)
 
 
 
