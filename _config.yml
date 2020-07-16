@@ -18,7 +18,7 @@ resume_contact_email:           "qed327@naver.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "010-9940-2748"
-resume_contact_address:         "서울시 노원구"
+resume_contact_address:         "서울"
 
 resume_header_contact_info:     "qed327@naver.com • 010-9940-2748 • https://github.com/brianeunseokjeon"
 display_header_contact_info:    "true"
