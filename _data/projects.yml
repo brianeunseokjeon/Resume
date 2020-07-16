@@ -9,7 +9,7 @@
   description: <li> 푸드렌즈/이벤트챌린지 등 리뉴얼에서의 새로운기능 및 APNS까지 담당 </li>
 
 - project: 야놀자 숙박 어플 클론 프로젝트(클릭)
-  role: iOS 개발자
+  role: iOS 개발자 & 전체 팀장
   duration: 2019.07.01 &mdash; 2019.08.10
   url: "https://github.com/final-project-yanolja/iOS_Team"
   description: <li> iOS개발자 3명, back-end 3명 front-end 4명 총 10명이 협업하여 개발 </li> <li>맡은 파트- 검색, 캘린더, 로그인 및 예약관련 네트워크, 전체팀장 </li> <li>캘린더(FSCalendar) - 라이브러리이용 하여 알고리즘을 이용하여 Custom하게 사용 </li> <li> 로그인 - 회원가입 및 로그인 관련 네트워크 담당 </li> <li> 예약기능 - Request요청을 통해 서버에 저장 </li> <li> 전체 팀장을 맡아, 백앤드와 프론트간의 의사소통의 중간자 역할을 했으며, 최종발표까지 담당 </li>
