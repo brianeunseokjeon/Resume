@@ -2,6 +2,12 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
+- project: 교보건강코칭(클릭)
+  role: iOS 개발자
+  duration: 2019.10.01 &mdash; 2020.06.01
+  url: "https://apps.apple.com/kr/app/%EA%B5%90%EB%B3%B4%EA%B1%B4%EA%B0%95%EC%BD%94%EC%B9%AD/id1287847453"
+  description: <li> 푸드렌즈/이벤트챌린지 등 리뉴얼에서의 새로운기능 및 APNS까지 담당 </li>
+
 - project: 야놀자 숙박 어플 클론 프로젝트(클릭)
   role: iOS 개발자
   duration: 2019.07.01 &mdash; 2019.08.10
